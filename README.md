@@ -9,4 +9,9 @@ Remember my 365 day's fitness training plan and vlog.
 
 [week 5](https://github.com/AlexsanderShaw/Ash-s-365-Fitness-Training/blob/main/week%203/Training.md)
 
-[6.13阶段总结](https://github.com/AlexsanderShaw/Ash-s-365-Fitness-Training/blob/main/6.13%20-%20%E9%98%B6%E6%AE%B5%E6%80%BB%E7%BB%93.md)
+[6.13 - 阶段总结](https://github.com/AlexsanderShaw/Ash-s-365-Fitness-Training/blob/main/6.13%20-%20%E9%98%B6%E6%AE%B5%E6%80%BB%E7%BB%93.md)
+
+[6.14 - 胸部训练](https://github.com/AlexsanderShaw/Ash-s-365-Fitness-Training/blob/main/6.14%20-%20%E8%83%B8%E9%83%A8%E8%AE%AD%E7%BB%83.md)
+
+[6.16 - 腿部训练](https://github.com/AlexsanderShaw/Ash-s-365-Fitness-Training/blob/main/6.16%20-%20%E8%85%BF%E9%83%A8%E8%AE%AD%E7%BB%83.md)
+
