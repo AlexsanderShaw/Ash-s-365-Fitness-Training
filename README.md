@@ -25,3 +25,5 @@ Remember my 365 day's fitness training plan and vlog.
 
 [7.7 - 腿部训练](https://github.com/AlexsanderShaw/Ash-s-365-Fitness-Training/blob/main/7.7%20-%20%E8%85%BF%E9%83%A8%E8%AE%AD%E7%BB%83.md)
 
+[7.9 - 背部训练](https://github.com/AlexsanderShaw/Ash-s-365-Fitness-Training/blob/main/7.9%20-%20%E8%83%8C%E9%83%A8%E8%AE%AD%E7%BB%83.md)
+
